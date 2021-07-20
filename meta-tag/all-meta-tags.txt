@@ -1,0 +1,48 @@
+<!-- Lesson ended at 4:59:03
+note: العناصر اﻹجبارية ﻷجل ظهور موقعك في محركات البحث ومواقع التواصل اﻹجتماعي
+<title></title> لتحديد عنوان الصفحة
+<meta name="description" content=""> لوصف الصفحة
+<meta charset="utf-8"/> لجعل موقعك يدعم جميع اﻷشكال الخاصة واﻷحرف
+note: لجعل موقعك يظهر بالشكل الصحيح في الهواتف
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+note: عناصر إختيارية قد تساعد في تحسين ظهور موقعك في محركات البحث
+<meta name="keywords" content="">
+<meta name="autor" content="">
+note: موقع لجلب كلمات مفتاحية قوية
+https://rapidtags.io/generator/
+-->
+
+<!--
+"icon" to appear on page tab as a logo  .. near page title
+"shortcut" to appear on search engines and when share
+"apple-touch-icon" to appear on apple phones
+<head>
+<link rel="icon" href="img_icons/facebook.png"/>
+<link rel="shortcut" href="img_icons/facebook.png"/>
+<link rel="apple-touch-icon" href="img_icons/facebook.png"/>
+</head>
+-->
+
+<!-- Lesson ended at  5:10:53
+To share your site on facebook بشكل صحيح
+<meta property="og:title" content=""/>
+<meta property="og:description" content=""/>
+<meta property="og:image" content=""/>
+<meta property="og:image:width" content="1200"/> or 600
+<meta property="og:image:height" content="630"/> or 315
+
+<meta property="og:url" content=""/> not imporant now
+<meta property="og:type" content="website"/> or aricle instead of website
+-->
+
+<!--
+To share your site on twitter بشكل صحيح
+<meta name="twitter:card" content="summary-large-image"/>
+<meta name="twitter:title" content="الموقع الشامل"/>
+<meta name="twitter:description" content="موقع اخباري شامل"/>
+<meta name="twitter:image" content=""/>
+ 
+<meta name="twitter:site" content="@user-name-on-twitter-if-exist"/>
+<meta name="twitter:creator" content="@اسم صانع المحتوى على تويتر ان كان له حساب على تويتر"/>
+-->
