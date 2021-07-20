@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+}
+
+center {
+    width: 100%;
+    height: 600px;
+    background-image: url("../../project/img/egypt-photos-giza-lights.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    width: 600px;
+    height: 100%;
+    text-align: center;
+    line-height: center;
+}
+
+header {
+    width: 100%;
+    height: 40%;
+    /*background-color: red;*/
+}
+
+main {
+    width: 100%;
+    height: 20%;
+}
+
+footer {
+    width: 100%;
+    height: 40%;
+}
+
+section.ludo {
+    float: left;
+    width: 40%;
+    height: 100%;
+    /* border: 1px solid black;*/
+    padding: 4px solid;
+    line-height: center;
+    text-align: center;
+}
+
+.ludoin {
+    width: 70%;
+    height: 70%;
+    margin: 15%;
+    line-height: center;
+    text-align: center;
+    /* border: 1px solid black;*/
+    /* border-radius: 5px;*/
+}
+
+.yellow {
+    outline: 35px solid yellow;
+}
+
+.green {
+    outline: 35px solid seagreen;
+}
+
+.red {
+    outline: 35px solid red;
+}
+
+.blue {
+    outline: 35px solid dodgerblue;
+}
+
+.tableludo {
+    clear: both;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 30px;
+    background-color: gray;
+}
+
+.tdludo {
+    /* border: 1px solid black;*/
+    border: 4px solid gray;
+    border-radius: 50%;
+    background-color: lightgray;
+}
+
+.tableupdown {
+    clear: both;
+    width: 100%;
+    height: 100%;
+    /* border: 1px solid black;*/
+    border-collapse: collapse;
+    /*  margin: 0px;*/
+    /* border: 1px solid black;*/
+}
+
+.maintable {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+.mainct {
+    /* background: linear-gradient(45deg, blue 25%, red 25%, green 25% yellow 25%);
+    background: linear-gradient(45deg, seagreen 50%, dodgerblue 50%);
+    background: linear-gradient(135deg, transparent 50%, red 50%);*/
+    background-image: linear-gradient(180deg, dodgerblue 50%, seagreen 50%);
+}
+
+.vertical {
+    width: 33.4%;
+    height: 16.7%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 0px;
+    background-color: lightgray;
+}
+
+.horizontal {
+    width: 16.7%;
+    height: 33.4%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 0px;
+    background-color: lightgray;
+}
+
+#divL {
+    float: left;
+    width: 0px;
+    height: 0px;
+    border-left: 60px solid yellow;
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent;
+}
+
+#divR {
+    float: right;
+    width: 0px;
+    height: 0px;
+    border-right: 60px solid red;
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent;
+}
+
+.material-icons {
+    font-weight: bolder;
+}
+
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}

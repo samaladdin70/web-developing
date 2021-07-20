@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/chess.css" />
+    <title>Chess-script</title>
+</head>
+
+<body>
+    <div>
+        <center>
+            <table id="myTable">
+            </table>
+        </center>
+    </div>
+    <script>
+        for (let r = 0; r < 8; r++) {
+            var row = document.createElement("tr");
+            document.getElementById("myTable").appendChild(row);
+            for (let d = 0; d < 8; d++) {
+                var cell = document.createElement("td");
+                row.appendChild(cell);
+            }
+        }
+    </script>
+
+</body>
+
+</html>

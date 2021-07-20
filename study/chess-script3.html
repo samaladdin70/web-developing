@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/chess.css" />
+    <title>Chess-script</title>
+</head>
+
+<body>
+    <div>
+        <center>
+            <table id="myTable">
+            </table>
+        </center>
+    </div>
+    <script>
+        var table = document.getElementById("myTable");
+        var row = "";
+        var cell = "";
+        for (td = 0; td < 8; td++) {
+            cell += "<td></td>";
+        }
+        for (tr = 0; tr < 8; tr++) {
+            row += "<tr>" + cell + "</tr>";
+        }
+        table.innerHTML += row;
+    </script>
+
+</body>
+
+</html>

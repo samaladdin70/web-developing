@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/ludo.css" />
+    <link rel="stylesheet" href="icons/google-icons/icon.css" />
+    <title>Ludo</title>
+</head>
+
+<body>
+    <center>
+        <div>
+            <header>
+                <section class="ludo left">
+                    <center class="ludoin yellow">
+                        <table class="tableludo">
+                            <tr>
+                                <td class="tdludo"></td>
+                                <td class="tdludo"></td>
+                            </tr>
+                            <tr>
+                                <td class="tdludo"></td>
+                                <td class="tdludo"></td>
+                            </tr>
+                        </table>
+                    </center>
+                </section>
+                <section style="width: 20%; height: 100%;  float: left;">
+                    <table class="tableupdown">
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical">
+                                <article style="color:dodgerblue;" class="material-icons">expand_more</article>
+                            </td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:dodgerblue;"></td>
+                            <td class="tdtableupdown vertical" style="background-color:dodgerblue;"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:dodgerblue;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:dodgerblue;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:dodgerblue;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:dodgerblue;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                    </table>
+                </section>
+                <section class="ludo right">
+                    <center class="ludoin blue">
+                        <table class="tableludo">
+                            <tr>
+                                <td class="tdludo"></td>
+                                <td class="tdludo"></td>
+                            </tr>
+                            <tr>
+                                <td class="tdludo"></td>
+                                <td class="tdludo"></td>
+                            </tr>
+                        </table>
+                    </center>
+                </section>
+            </header>
+            <main>
+                <section class="mainlr" style="width: 40%; height: 100%; float: left;">
+                    <table class="maintable">
+                        <tr>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:yellow;"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown horizontal">
+                                <article class="material-icons" style="color: yellow;">
+                                    chevron_right
+                                </article>
+                            </td>
+                            <td class="tdtableupdown horizontal" style="background-color:yellow;"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:yellow;"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:yellow;"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:yellow;"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:yellow;"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                        </tr>
+                    </table>
+                </section>
+                <section class="mainct" style="width: 20%; height: 100%; float: left;">
+                    <div id="divL"></div>
+                    <div id="divR"></div>
+
+                </section>
+                <section class="mainlr" style="width: 40%; height: 100%; float: left;">
+                    <table class="maintable">
+                        <tr>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown horizontal" style="background-color:red;"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:red;"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:red;"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:red;"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:red;"></td>
+                            <td class="tdtableupdown horizontal">
+                                <article class="material-icons" style="color:red;">
+                                    chevron_left
+                                </article>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                            <td class="tdtableupdown horizontal" style="background-color:red;"></td>
+                            <td class="tdtableupdown horizontal"></td>
+                        </tr>
+                    </table>
+                </section>
+            </main>
+            <footer>
+                <section class="ludo left">
+                    <center class="ludoin green">
+                        <table class="tableludo">
+                            <tr>
+                                <td class="tdludo"></td>
+                                <td class="tdludo"></td>
+                            </tr>
+                            <tr>
+                                <td class="tdludo"></td>
+                                <td class="tdludo"></td>
+                            </tr>
+                        </table>
+                    </center>
+                </section>
+                <section style="width: 20%; height: 100%; float: left;">
+                    <table class="tableupdown">
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:seagreen;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:seagreen;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:seagreen;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical" style="background-color:seagreen;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical" style="background-color:seagreen;"></td>
+                            <td class="tdtableupdown vertical" style="background-color:seagreen;"></td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                        <tr>
+                            <td class="tdtableupdown vertical"></td>
+                            <td class="tdtableupdown vertical">
+                                <article class="material-icons" style="color:seagreen;">expand_less</article>
+                            </td>
+                            <td class="tdtableupdown vertical"></td>
+                        </tr>
+                    </table>
+                </section>
+                <section class="ludo right">
+                    <center class="ludoin red">
+                        <table class="tableludo">
+                            <tr>
+                                <td class="tdludo"></td>
+                                <td class="tdludo"></td>
+                            </tr>
+                            <tr>
+                                <td class="tdludo"></td>
+                                <td class="tdludo"></td>
+                            </tr>
+                        </table>
+                    </center>
+                </section>
+            </footer>
+        </div>
+    </center>
+</body>
+
+</html>
