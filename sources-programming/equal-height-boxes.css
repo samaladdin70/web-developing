@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    float: left;
+    width: 50%;
+    /*deppinding on number of boxes (div-s)*/
+    padding: 50px;
+    height: 300px;
+    /*height depinding on your design*/
+    overflow: auto;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+/*boxes here are some of div-s containing in abig container like div which has class = clearfix*/

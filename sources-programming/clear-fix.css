@@ -1,0 +1,14 @@
+.clearfix {
+    overflow: auto;
+}
+
+.clearfix2::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+/* this classes (one of them) are added to container like a div
+to avoid its elements (like img with som text) to overflow out-side it
+*/

@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+}
+
+header,
+footer {
+    background-color: grey;
+    color: white;
+    padding: 15px;
+}
+
+aside {
+    float: left;
+    padding: 15px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+aside .menu {
+    width: 25%;
+}
+
+main {
+    width: 75%;
+    float: left;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: #33b5e5;
+    color: #ffffff;
+}
+
+.menu li:hover {
+    background-color: #0099cc;
+}
+
+
+/*
+aside in a div has class clearfix .. and aside itself has a class menu
+*/
+
+
+/*
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<header></header>
+<div class="clearfix">
+<aside class="menu">
+<ul>
+<li></li>
+</ul>
+</aside>
+</div>
+<main></nain>
+<footer></footer>
+</body>
+</html>
+
+*/
+
+
+/*
+another for top menu made from (list) of (anchors) in horizontal
+
+.topmenu {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #777;
+        }
+        
+        .topmenu li {
+            float: left;
+        }
+        
+        .topmenu li a {
+            display: inline-block;
+            color: white;
+            text-align: center;
+            padding: 16px;
+            text-decoration: none;
+        }
+        
+        .topmenu li a:hover {
+            background-color: #222;
+        }
+        
+        .topmenu li a.active {
+            color: white;
+            background-color: #4CAF50;
+        }
+instead of top menu class you can type ul as an unorderd list        
+*/

@@ -1,0 +1,50 @@
+/* زرار بارز */
+
+#greenMove {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    border: 2px solid lightgreen;
+    background-color: transparent;
+    color: lightgreen;
+    border-radius: 10px;
+    box-shadow: 1px 4px 4px gray;
+}
+
+#greenMove:hover {
+    background-color: seagreen;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    border: 2px solid seagreen;
+}
+
+#greenMove:active {
+    box-shadow: 1px 1px 4px gray;
+    transform: translateY(3px);
+}
+
+
+/* زرار غاطس */
+
+#pink {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    border: 2px solid pink;
+    background-color: transparent;
+    color: pink;
+    border-radius: 10px;
+}
+
+#pink:hover {
+    background-color: pink;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+#pink:active {
+    box-shadow: 1px 3px 4px gray inset;
+    transform: translateY(3px);
+}
