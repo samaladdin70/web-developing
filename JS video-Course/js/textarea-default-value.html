@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../edittor-project/style.css" />
+    <title>Document</title>
+</head>
+
+<body>
+    Address:<br>
+    <textarea id="myTextarea">
+    342 Alvin Road
+    Ducksburg</textarea>
+
+    <p>Click the button to change the default value of the text area.</p>
+
+    <button type="button" onclick="myFunction()">Try it</button>
+
+    <script>
+        function myFunction() {
+            document.getElementById("myTextarea").defaultValue = "Fifth Avenue, New York City";
+        }
+    </script>
+</body>
+
+</html>
