@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ar"><!-- lesson begin at 3:21:28 -->
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+	</head>
+	<body dir="rtl">
+		<input type="file" />
+		<br/><br/>
+		<input lang="ar" type="file" accept="image/*" />
+		<br/><br/>
+		<input type="file" accept="image/*,video/*,audio/*,.pdf,.docx" />
+		<br/><br/>
+		<input type="file" accept=".pdf,.docx,.mp3,.mp4" />
+		<br/><br/>
+		<form>
+			<input type="file" />
+			<button type="submit">رفع الملفات</button>
+		</form>
+		<br/>
+		<form>
+			<input type="file" / name="file" required />
+			<button type="submit">رفع الملفات</button>
+		</form>
+		<br/>
+		<form>
+			<input type="file" / name="file" required style="display: none;" />
+			<button type="submit">رفع الملفات</button>
+		</form>
+		<br/>
+		<form>
+			<button type="button" onclick="document.getElementById('file').click()">استعرض الملفات</button>
+			<input type="file" / name="file" required style="display: none;" id="file" />
+			<button type="submit">رفع الملفات</button>
+		</form>
+	</body>
+</html><!-- lesson ended at 3;32:25 -->

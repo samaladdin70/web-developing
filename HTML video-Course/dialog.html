@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+<!--
+<dialog >
+<img src="img_icons/index.jpeg" alt=""/>
+</dialog>
+<hr/>
+<dialog open >
+<img src="img_icons/index.jpeg" alt=""/>
+</dialog>
+<hr/>
+<dialog open="false">
+<img src="img_icons/index.jpeg" alt=""/>
+</dialog>
+<hr/>
+<dialog open="true" >
+<img src="img_icons/index.jpeg" alt=""/>
+</dialog>
+-->
+<button type="button" onclick="openDialog()">Open Dialog</button>
+<dialog id="dia">
+<h2>Hello World</h2>
+<img src="img_icons/index.jpeg" alt=""/>
+<span onclick="closeDialog()" ><u>close</u></span>
+</dialog>
+<script>
+function openDialog(){
+document.getElementById("dia").setAttribute("open", "true");
+}
+function closeDialog(){
+document.getElementById("dia").removeAttribute("open");
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="checkbox" onchange="boldd()" />
+    <select>
+            <option></option>
+        <option onclick="boldd()" >Blue</option>
+        <option>Red</option>
+        <option>Orange</option>
+        <option>Gold</option>
+        
+    </select>
+    <p onclick="boldd()"><u>Bold</u></p>
+    <textarea contenteditable="true" id="txtarea" rows="10" cols="50" style="font-size: 26px;"></textarea>
+
+    <script>
+        function boldd() {
+            document.getElementById("txtarea").setAttribute("style",
+                "font-weight: bolder; font-size: 26px;");
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		</head>
+	<body>
+		<h1>Hello World</h1>
+		<hr/>
+		<h1 contenteditable="true" >Hello World</h1>
+		<hr/>
+		<h1 contenteditable="false" >Hello World</h1>
+		<hr/>
+		<h1 id="text" >Hello World</h1>
+		<button type="button" onclick="EditText()">تعديل النص</button> 
+		<button type="button" onclick="SaveText()">حفظ التعديل</button>
+		<script>
+			function EditText(){
+			document.getElementById("text").setAttribute("contenteditable", "true");
+			}
+			function SaveText(){
+			document.getElementById("text").setAttribute("contenteditable", "false");
+			}
+		</script>
+		<hr/>
+		<hr/>
+		<h1 id="text2" >Hello World</h1>
+		<button type="button" onclick="EditText2()" title="Edit Text" >تعديل النص</button> 
+		<button type="button" onclick="SaveText2()" title="Push to Save" >حفظ التعديل</button>
+		<script>
+			function EditText2(){
+			document.getElementById("text2").contentEditable="true";
+			}
+			function SaveText2(){
+			document.getElementById("text2").contentEditable="false";
+			}
+		</script>
+		<hr/>
+	</body>
+</html>

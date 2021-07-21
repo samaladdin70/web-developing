@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ar"><!-- Lesson start at 3:11:5  -->
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style>
+			#table2 {
+			width: 70%;
+			}
+			#male , #female {
+			width: 50%;
+			}
+		</style>
+	</head>
+	<body dir="rtl">
+		<form method="GET">
+			<table>
+				<tr>
+					<td><label>أدخل إسمك بالكامل :</label><span style="color: red;"> * </span></td>
+					<td><input type="text" name="full_name" required /></td>
+				</tr>
+				<tr>
+					<td><label>أدخل بريدك اﻹلكتروني :</label><span style="color: red;"> * </span></td>
+					<td><input type="email" name="email" required placeholder="example@mail.com" /></td>
+				</tr>
+				<tr>
+					<td><label>أدخل رقم الهاتف :</label></td>
+					<td><input type="tel" name="tel" placeholder="Not Required" /></td>
+				</tr>
+				<tr>
+					<td><label>نوع الجنس :</label><span style="color: red;"> * </span></td>
+					<td>
+						<table id="table2" >
+							<tr>
+								<td id="male"><label>ذكر</label>
+								<input type="radio" name ="gender" value="ذكر" required  /></td>
+								<td id="female"><label>أنثى</label>
+								<input type="radio" name="gender" value="أنثى" required  /></td>
+							<!-- name="gender" لاحظ استخدمنا نفس اﻷسم لعنصري راديو حتى يتم اختيار واحدة فقط ولا تستطيع التعليم على الاثنين -->
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td><label>أدخل تاريخ الميلاد :</label><span style="color: red;"> * </span></td>
+					<td><input type="date" name="date" required /></td>
+				</tr>
+				<tr>
+					<td>
+					<button type="submit">تسجيل البيانات</button>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>
