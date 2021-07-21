@@ -1,0 +1,13 @@
+* {
+box-sizing: border-box;
+}
+div {
+width:100%;
+height: 600px; 
+background: #55cea7;	
+background-origin: padding-box;
+background-image: url(Html-certificate.png);
+border: 10px dashed blue;
+background-repeat: no-repeat;
+background-size: 100% 100%; /* value can be cover, auto or px */
+}

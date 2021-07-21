@@ -1,0 +1,48 @@
+.anchor {
+    text-decoration: none;
+}
+
+.anchor2 {
+    text-decoration: none;
+    color: black;
+}
+
+.anchor3 {
+    text-decoration: underline;
+    color: black;
+}
+
+.anchor4 {
+    text-decoration: line-through;
+    color: black;
+}
+
+.anchor5 {
+    text-decoration: overline;
+    color: black;
+}
+
+.anchor6 {
+    text-decoration: underline overline;
+    color: black;
+}
+
+.anchor7 {
+    text-decoration: 2px double underline overline;
+    color: black;
+}
+
+.anchor8 {
+    text-decoration: 2px dotted underline overline;
+    color: black;
+}
+
+.anchor9 {
+    text-decoration: 2px wavy underline overline;
+    color: black;
+}
+
+.anchor10 {
+    text-decoration: 2px solid underline overline;
+    color: black;
+}

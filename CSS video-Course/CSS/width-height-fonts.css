@@ -1,0 +1,98 @@
+    /* arabic */
+    
+    @font-face {
+        font-family: 'Amiri';
+        font-style: italic;
+        font-weight: 700;
+        src: url(google-fonts/fonts/Amiri/J7aanpd8CGxBHpUrjAo9_plqHwAa.woff2) format('woff2');
+        unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
+    }
+    /* latin-ext */
+    
+    @font-face {
+        font-family: 'Amiri';
+        font-style: italic;
+        font-weight: 700;
+        src: url(google-fonts/fonts/Amiri/J7aanpd8CGxBHpUrjAo9_pJqHwAa.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    
+    @font-face {
+        font-family: 'Amiri';
+        font-style: italic;
+        font-weight: 700;
+        src: url(google-fonts/fonts/Amiri/J7aanpd8CGxBHpUrjAo9_pxqHw.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* arabic */
+    
+    @font-face {
+        font-family: 'Amiri';
+        font-style: normal;
+        font-weight: 400;
+        src: url(google-fonts/fonts/Amiri/J7aRnpd8CGxBHpUrtLMA7w.woff2) format('woff2');
+        unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
+    }
+    /* latin-ext */
+    
+    @font-face {
+        font-family: 'Amiri';
+        font-style: normal;
+        font-weight: 400;
+        src: url(google-fonts/fonts/Amiri/J7aRnpd8CGxBHpUgtLMA7w.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    
+    @font-face {
+        font-family: 'Amiri';
+        font-style: normal;
+        font-weight: 400;
+        src: url(google-fonts/fonts/Amiri/J7aRnpd8CGxBHpUutLM.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    
+    .txtar {
+        font-family: 'Amiri', serif;
+        font-size: 28px;
+        /*  
+    to make font color from image at 1:15:15*/
+        color: transparent;
+        background: url(txt6.png);
+        /* to transform back ground (image) to text color */
+        -webkit-background-clip: text;
+        background-size: 100% 40px;
+        direction: rtl;
+    }
+    
+    .txten {
+        font-family: 'Amiri', serif;
+        /* font-family: 'Benne', serif;
+     font-family: 'Merriweather', serif;*/
+        font-size: 40px;
+        /* to add border around text with specific width and color */
+        /* -webkit-text-stroke-color: red;
+    -webkit-text-stroke-width: 1px; */
+        /*Or */
+        -webkit-text-stroke: 2px rgb(226, 28, 28);
+        /* instead of px in width you cane use thin , medium or thick */
+        direction: ltr;
+    }
+    
+    #ttl {
+        font-family: Arial, Helvetica, sans-serif;
+        color: transparent;
+        -webkit-text-stroke: thin darkblue;
+    }
+    /*
+
+display: block; to conver inline element to block element
+to make width and height make changes to inline element
+width: ; -- height: ;
+font-size: ;  -- font-style: ;
+font-variant: small-caps / unicase / all-petite-caps ;
+font-family: ; font-weight: ;
+google font to add more font familys and weight as <link/> in <head></head>
+at 1:11:23
+*/
