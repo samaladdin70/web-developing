@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Encode & Decode</title>
+    <style>
+        header {
+            width: 100%;
+            height: 75px;
+            line-height: 75px;
+            background-color: black;
+            color: white;
+        }
+        
+        nav {
+            width: 20%;
+            text-align: center;
+            background-color: red;
+            box-sizing: border-box;
+            float: left;
+        }
+        
+        select {
+            width: 80%;
+            height: 50px;
+            background-color: black;
+            color: white;
+            font-weight: bold;
+            border: none;
+        }
+        
+        section {
+            float: left;
+            width: 80%;
+            text-align: center;
+        }
+        
+        p {
+            display: inline;
+            font-weight: bold;
+        }
+        
+        main {
+            box-sizing: border-box;
+            height: 500px;
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .area {
+            width: 70%;
+            height: 200px;
+            padding: 15px;
+            border: 4px solid dodgerblue;
+            border-radius: 15px;
+        }
+        
+        .area:focus {
+            outline: 4px dashed seagreen;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <select id="selectId">
+                <option value="encode">Encode</option>
+                <option value="decode">Decode</option>
+            </select>
+        </nav>
+        <section>
+            <p>Encoding and Decoding page</p>
+        </section>
+    </header>
+    <main>
+        <textarea id="inputId" class="area"></textarea>
+        <br><br>
+        <textarea id="outputId" class="area"></textarea>
+    </main>
+    <script src="encode-decode.js"></script>
+</body>
+
+</html>
