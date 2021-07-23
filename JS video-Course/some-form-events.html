@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <form id="email_form">
+        <input type="email" id="email" name="email" maxlength="30" required/>
+        <br>
+        <div id="email_error"></div>
+        <button type="submit">تسجيل</button>
+    </form>
+    <script>
+        let email_form = document.getElementById("email_form");
+        let email = document.getElementById("email");
+        let email_error = document.getElementById("email_error");
+        email_error.style.color = "red";
+        email.addEventListener("invalid", () => {
+            input_error();
+            email_error.innerText = email.validationMessage;
+
+        });
+        email.addEventListener("input", () => {
+            input_error();
+        });
+
+
+        email_form.addEventListener("submit", (error) => {
+            if (email.value.indexOf("@gmail") != -1) {
+                return true;
+            } else {
+                email.style.borderColor = "red";
+                email_error.innerHTML = "ادخل ايميل من نوع جيميل فقط";
+                error.preventDefault();
+            }
+        });
+
+
+        function input_error() {
+            if (email.validity.valueMissing) {
+                email.setCustomValidity("من فضلك إمليء هذا الحقل");
+            } else if (email.validity.typeMismatch) {
+                email.setCustomValidity("بيانات بريد غير صالحة");
+            } else {
+                email.setCustomValidity("");
+                return true;
+            }
+        }
+        //  event        -     addEventListener
+        // -------------------------------------------
+        //  onsubmit     -     submit   تنفيذ أوامر عند يتم نقر على زر سوبميت ويحدث ارسال  بنجاح
+        // --------------------------------------------
+        //  preventDefault()
+
+        //  event        -     addEventListener
+        //---------------------------------------------
+        //  oninvalid    -     invalid  تنفيذ أوامر عند يتم نقر على زر سوبميت ويحدث خطا بفورم 
+        //  oninput      -     input     لتنفيذ الأوامر عندما يقوم المستخدم بضغط على حقل المحدد لكتابة شي ضمنها
+
+        // --------------------------------------------
+
+        // input  = حقل | مدخل
+
+        // setCustomValidity()                                 لإعادة تعيين رسالة الخطأ الأفتراضية 
+        // validationMessage                   للحصول على رسالة الخطأ عند حدوث خطا ضمن احد حقول
+        // validity.typeMismatch   لتحقق إن كان نوع البيانات الذي إدخاله مستخدم صالحة او لا
+        // validity.valueMissing                    للتحقق إن كان حقل المحدد يفقد للبيانات او لا
+    </script>
+</body>
+
+</html>
