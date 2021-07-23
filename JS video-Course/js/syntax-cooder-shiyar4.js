@@ -451,3 +451,57 @@ function make_result() {
     </html>
 */
 //===========================================================================================
+
+// Lesson 60
+// submit(); يتم استخدامها لعمل سبميت للفورم مثل النقر على زر من نوع سبميت
+// reset(); تستخدم ﻹعادة تعيين قيم جميع العناصر في نموذج مثل النقر على زر إعادة الضبط
+// focus(); تستخدم ﻹضافة تركيز للعنصر الذي يمكن اضافة تركيز عليه
+// blur(); يتم استخدامها ﻹلغاء التركيز من عنصر مضاف إليه تركيز
+/*<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <form id="login_form">
+        <input id="email" type="email" name="email" placeholder="ضع بريدك اﻹلكتروني" /><br>
+        <input type="password" name="password" placeholder="كلمة المرور" />
+        <br>
+        <button type="submit">تسجيل الدخول</button>
+        <button type="reset">إعادة تعيين البيانات</button>
+    </form>
+    <button id="submit_form">تسجيل دخول من خارج الفورم</button>
+    <button id="reset_form">`اعادة تعيين القيم من خارج الفورم</button>
+    <br>
+    <button id="focus_onemail">اضف تركيز الى حقل البريد</button>
+    <button id="blur_onemail">الغاء التركيز من حقل البريد</button>
+    <script>*/
+
+let login_form = document.getElementById("login_form");
+let email = document.getElementById("email");
+let submit_form = document.getElementById("submit_form");
+let reset_form = document.getElementById("reset_form");
+let focus_onemail = document.getElementById("focus_onemail");
+let blur_onemail = document.getElementById("blur_onemail");
+submit_form.addEventListener("click", () => {
+    login_form.submit();
+});
+reset_form.addEventListener("click", () => {
+    login_form.reset();
+});
+focus_onemail.addEventListener("click", () => {
+    email.focus();
+});
+blur_onemail.addEventListener("click", () => {
+    email.blur();
+});
+/* </script>
+</body>
+
+</html>*/
+//=========================================================================================
