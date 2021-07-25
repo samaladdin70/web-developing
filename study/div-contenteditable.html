@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style>
+        * {
+            margin: auto;
+            box-sizing: border-box;
+        }
+        
+        .container {
+            width: 100%;
+            height: 600px;
+            text-align: center;
+            border: : 1px solid black;
+        }
+        
+        .inputsContain {
+            width: 70%;
+            height: 100px;
+            line-height: 100px;
+            text-align: center;
+            padding-top: 20px;
+        }
+        
+        .inputs {
+            display: inline-block;
+            width: 100px;
+            height: 50px;
+        }
+        
+        #out {
+            width: 70%;
+            height: 200px;
+            border: 5px solid dodgerblue;
+            border-radius: 14px;
+            padding: 15px;
+            text-align: left;
+            position: relative;
+            overflow: auto;
+        }
+        
+        textarea {
+            /*visibility: hidden;*/
+            width: 70%;
+            height: 200px;
+            color: transparent;
+            border: 1px solid black;
+            border-radius: 14px;
+            outline: 0px solid transparent;
+            background-color: transparent;
+            position: absolute;
+            top: 120px;
+            right: 15%;
+        }
+    </style>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="inputsContain">
+            <label>Bold</label><input class="inputs" type="checkbox" name="bold" id="bold" />
+            <label>Italic</label><input class="inputs" type="checkbox" name="italic" id="italic" />
+            <label>Underline</label><input class="inputs" type="checkbox" name="underline" id="underline" />
+        </div>
+        <br>
+        <textarea id="edit" autocorrect="off" spellcheck="false">
+            
+            </textarea>
+        <div id="out" contenteditable="true">
+
+        </div>
+
+    </div>
+    <script>
+        let bold = document.getElementById("bold");
+        let italic = document.getElementById("italic");
+        let underline = document.getElementById("underline");
+        let editor = document.getElementById("edit");
+        let out = document.getElementById("out");
+
+        editor.value = "";
+        out.addEventListener("input", () => {
+            editor.value = out.innerHTML;
+            editor.focus();
+        });
+
+
+        editor.addEventListener("input", () => {
+            out.innerHTML = editor.value;
+        });
+        /* body.addEventListener("click", () => {
+             editor.focus();
+         });*/
+
+        editor.focus();
+        editing();
+
+        function editing() {
+            /* editor.style.display = "none";*/
+            bold.addEventListener("change", () => {
+                if (bold.checked == true) {
+                    event.preventDefault();
+                    editor.value += "<b>";
+                    editor.focus();
+
+                } else if (bold.checked == false) {
+                    event.preventDefault();
+                    editor.value += "</b>";
+                    editor.focus();
+                }
+            });
+            italic.addEventListener("change", () => {
+                if (italic.checked == true) {
+                    event.preventDefault();
+                    editor.value += "<i>";
+                    editor.focus();
+
+                } else if (italic.checked == false) {
+                    event.preventDefault();
+                    editor.value += "</i>";
+                    editor.focus();
+                }
+            });
+            underline.addEventListener("change", () => {
+                if (underline.checked == true) {
+                    event.preventDefault();
+                    editor.value += "<u>";
+                    editor.focus();
+
+                } else if (underline.checked == false) {
+                    event.preventDefault();
+                    editor.value += "</u>";
+                    editor.focus();
+                }
+            });
+            editor.addEventListener("keyup", (event) => {
+                if (event.key === "Enter") {
+                    // Cancel the default action, if needed
+                    // event.preventDefault();
+
+                    editor.value += "<br>";
+
+                }
+            });
+
+
+        }
+    </script>
+</body>
+
+</html>
