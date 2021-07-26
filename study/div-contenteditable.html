@@ -34,33 +34,42 @@
         
         #out {
             width: 70%;
-            height: 200px;
+            height: 400px;
             border: 5px solid dodgerblue;
             border-radius: 14px;
-            padding: 15px;
+            padding: 14px;
             text-align: left;
             position: relative;
-            overflow: auto;
+            overflow-y: auto;
+        }
+        
+        #out:hover {
+            cursor: text;
         }
         
         textarea {
             /*visibility: hidden;*/
             width: 70%;
-            height: 200px;
+            height: 400px;
             color: transparent;
-            border: 1px solid black;
+            border: none;
             border-radius: 14px;
             outline: 0px solid transparent;
             background-color: transparent;
             position: absolute;
-            top: 120px;
+            /* caret-color: black;*/
+            top: 118px;
             right: 15%;
+            overflow-y: auto;
+            padding-top: 15px;
+            font-size: 16px;
         }
     </style>
     <title>Document</title>
 </head>
 
 <body>
+
     <div class="container">
         <div class="inputsContain">
             <label>Bold</label><input class="inputs" type="checkbox" name="bold" id="bold" />
@@ -68,12 +77,9 @@
             <label>Underline</label><input class="inputs" type="checkbox" name="underline" id="underline" />
         </div>
         <br>
-        <textarea id="edit" autocorrect="off" spellcheck="false">
-            
-            </textarea>
-        <div id="out" contenteditable="true">
+        <textarea id="edit" autocorrect="off" spellcheck="false"></textarea>
 
-        </div>
+        <div id="out" contenteditable="false" dir="ltr"></div>
 
     </div>
     <script>
@@ -82,59 +88,97 @@
         let underline = document.getElementById("underline");
         let editor = document.getElementById("edit");
         let out = document.getElementById("out");
-
+        let format = "";
         editor.value = "";
-        out.addEventListener("input", () => {
-            editor.value = out.innerHTML;
+
+        function initEdit() {
+            if (bold.checked == true) {
+
+                editor.value += "<b>";
+                format += "<b>";
+                //editor.focus();
+            }
+            if (italic.checked == true) {
+
+                editor.value += "<i>";
+                format += "<i>"
+                    //editor.focus();
+
+            }
+            if (underline.checked == true) {;
+                editor.value += "<u>";
+                format += "<u>";
+                // editor.focus();
+
+            }
+        }
+
+        initEdit();
+        editing();
+
+        out.addEventListener("click", () => {
             editor.focus();
         });
 
 
         editor.addEventListener("input", () => {
+            //editor.value += format
             out.innerHTML = editor.value;
+            //out.innerHTML = text.replace(new RegExp("&", "g"), "&").replace(new RegExp("<", "g"), "<"); /* Global RegExp */
         });
-        /* body.addEventListener("click", () => {
-             editor.focus();
-         });*/
+
 
         editor.focus();
-        editing();
+
 
         function editing() {
+            format = "";
             /* editor.style.display = "none";*/
             bold.addEventListener("change", () => {
                 if (bold.checked == true) {
-                    event.preventDefault();
-                    editor.value += "<b>";
+                    //event.preventDefault();
+                    format += "<b>";
+                    editor.value += format;
+                    format = "";
                     editor.focus();
 
                 } else if (bold.checked == false) {
-                    event.preventDefault();
-                    editor.value += "</b>";
+                    // event.preventDefault();
+                    format += "</b>";
+                    editor.value += format;
+                    format = "";
                     editor.focus();
                 }
             });
             italic.addEventListener("change", () => {
                 if (italic.checked == true) {
-                    event.preventDefault();
-                    editor.value += "<i>";
+                    // event.preventDefault();
+                    format += "<i>";
+                    editor.value += format;
+                    format = "";
                     editor.focus();
 
                 } else if (italic.checked == false) {
-                    event.preventDefault();
-                    editor.value += "</i>";
+                    // event.preventDefault();
+                    format += "</i>";
+                    editor.value += format;
+                    format = "";
                     editor.focus();
                 }
             });
             underline.addEventListener("change", () => {
                 if (underline.checked == true) {
-                    event.preventDefault();
-                    editor.value += "<u>";
+                    //event.preventDefault();
+                    format += "<u>";
+                    editor.value += format;
+                    format = "";
                     editor.focus();
 
                 } else if (underline.checked == false) {
                     event.preventDefault();
-                    editor.value += "</u>";
+                    format += "</u>";
+                    editor.value += format;
+                    format = "";
                     editor.focus();
                 }
             });
@@ -143,12 +187,46 @@
                     // Cancel the default action, if needed
                     // event.preventDefault();
 
-                    editor.value += "<br>";
+                    format += "<p>";
+                    editor.value += format;
+                    format = "";
 
                 }
             });
 
 
+        }
+
+        function PosEnd(end) {
+            var len = end.innerText.length;
+
+            // Mostly for Web Browsers
+            if (end.setSelectionRange) {
+                end.focus();
+                end.setSelectionRange(len, len);
+            } else if (end.createTextRange) {
+                var t = end.createTextRange();
+                t.collapse(true);
+                t.moveEnd('character', len);
+                t.moveStart('character', len);
+                t.select();
+            }
+        }
+
+        function PosStart(start) {
+            var len = start.innerText.length;
+
+            // Mostly for Web Browsers
+            if (start.setSelectionRange) {
+                start.focus();
+                start.setSelectionRange(len, len);
+            } else if (start.createTextRange) {
+                var t = start.createTextRange();
+                t.collapse(true);
+                t.moveEnd('character', len);
+                t.moveStart('character', 0);
+                t.select();
+            }
         }
     </script>
 </body>
