@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+center {
+    width: 100%;
+}
+
+img {
+    width: 40%;
+    max-height: 330px;
+    object-fit: cover;
+}
+
+#browse {
+    width: 120px;
+    height: 75px;
+    background-image: linear-gradient(to top, red, pink);
+    color: white;
+    font-family: Amiri, serif;
+    font-size: 22px;
+    font-weight: bold;
+    border: none;
+    border-radius: 14px;
+}
+
+#browse:hover {
+    cursor: pointer;
+}
+
+#browse:active {
+    box-shadow: 3px 3px 6px black inset;
+    transform: translateY(2px);
+}
