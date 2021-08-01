@@ -1,0 +1,58 @@
+#bodyId {
+    background-color: darkblue;
+}
+
+#mainBody {
+    width: 100%;
+    height: 600px;
+    line-height: 600px;
+    color: snow;
+}
+
+#system {
+    position: absolute;
+    top: 20px;
+    line-height: 600px;
+}
+
+label {
+    display: inline;
+}
+
+#outerId {
+    box-sizing: border-box;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    display: inline-block;
+    position: absolute;
+    top: 25%;
+    right: 30%;
+    width: 40%;
+    height: 50%;
+    background-color: black;
+    line-height: 100%;
+}
+
+#dateId {
+    display: inline;
+    color: snow;
+}
+
+#innerId {
+    margin-top: 0px;
+    height: 70%;
+    color: snow;
+    font-family: Amiri, serif;
+    width: 80%;
+    line-height: 210px;
+    background-color: tomato;
+}
+
+p {
+    color: tomato;
+}
+
+p input {
+    display: inline-block;
+    width: 20%;
+}

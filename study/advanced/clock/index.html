@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>clock</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body id="bodyId">
+    <center id="mainBody">
+        <center id="system">
+            <label id="label24">24 Hours:</label>
+            <input type="radio" name="system" id="system24" value="" required checked>
+            &nbsp <label id="label12">12 Hours:</label>
+            <input type="radio" name="system" id="system12" value="" required>
+        </center>
+        <center id="outerId">
+            <p id="dateId"></p>
+            <center id="innerId">
+                <h1 id="clockId">23:59:00</h1>
+            </center>
+            <p>Choose Color: <input type="color" name="color" id="colorId" onchange="backcolor()"></p>
+        </center>
+    </center>
+    <script src="app.js"></script>
+</body>
+
+</html>
