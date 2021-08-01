@@ -1,0 +1,17 @@
+h1 {
+    display: inline-block;
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+p {
+    display: inline;
+    color: blue;
+    float: right;
+}
+
+p:hover {
+    cursor: pointer;
+}
