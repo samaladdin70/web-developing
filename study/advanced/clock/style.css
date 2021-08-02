@@ -1,5 +1,6 @@
 #bodyId {
     background-color: darkblue;
+    position: relative;
 }
 
 #mainBody {
@@ -7,16 +8,21 @@
     height: 600px;
     line-height: 600px;
     color: snow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #system {
-    position: absolute;
-    top: 20px;
-    line-height: 600px;
+    /*position: absolute;
+    left: 4px;
+    line-height: 600px;*/
+    display: inline;
 }
 
 label {
     display: inline;
+    font-size: 14px;
 }
 
 #outerId {
@@ -24,11 +30,11 @@ label {
     padding-bottom: 20px;
     padding-top: 10px;
     display: inline-block;
-    position: absolute;
+    /* position: absolute;
     top: 25%;
-    right: 30%;
+    right: 30%;*/
     width: 40%;
-    height: 50%;
+    height: 60%;
     background-color: black;
     line-height: 100%;
 }
@@ -40,11 +46,11 @@ label {
 
 #innerId {
     margin-top: 0px;
-    height: 70%;
+    height: 50%;
     color: snow;
     font-family: Amiri, serif;
     width: 80%;
-    line-height: 210px;
+    line-height: 150px;
     background-color: tomato;
 }
 
@@ -55,4 +61,12 @@ p {
 p input {
     display: inline-block;
     width: 20%;
+}
+
+.sign {
+    font-family: cursive;
+    font-size: 90%;
+    font-weight: bold;
+    color: darkred;
+    text-shadow: 1px 1px 2px rgb(139, 129, 129);
 }
