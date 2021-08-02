@@ -10,18 +10,23 @@
 
 <body id="bodyId">
     <center id="mainBody">
-        <center id="system">
-            <label id="label24">24 Hours:</label>
-            <input type="radio" name="system" id="system24" value="" required checked>
-            &nbsp <label id="label12">12 Hours:</label>
-            <input type="radio" name="system" id="system12" value="" required>
-        </center>
+
         <center id="outerId">
             <p id="dateId"></p>
+            <p>
+                <center id="system">
+                    <label id="label24">24 Hours:</label>
+                    <input type="radio" name="system" id="system24" value="" required>
+                    &nbsp &nbsp
+                    <label id="label12">12 Hours:</label>
+                    <input type="radio" name="system" id="system12" value="" required checked>
+                </center>
+            </p>
             <center id="innerId">
                 <h1 id="clockId">23:59:00</h1>
             </center>
             <p>Choose Color: <input type="color" name="color" id="colorId" onchange="backcolor()"></p>
+            <p class="sign"><i>Designed by: Aladdin</i></p>
         </center>
     </center>
     <script src="app.js"></script>
