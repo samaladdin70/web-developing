@@ -13,17 +13,21 @@ function clock() {
     if (system12.checked == true) {
         if (parseInt(_Hours) > 12) {
             _Hours = parseInt(_Hours) % 12;
+            clockk.innerHTML = ("0" + _Hours).slice(-2) + ":" + ("0" + date.getMinutes()).slice(-2) + ":" + ("0" + date.getSeconds()).slice(-2) + '<sub style="font-size:14px; font-weight:normal; font-family:arial;" ><i> pm</i></sub>';
+        } else if (parseInt(_Hours) == 12) {
+            clockk.innerHTML = ("0" + _Hours).slice(-2) + ":" + ("0" + date.getMinutes()).slice(-2) + ":" + ("0" + date.getSeconds()).slice(-2) + '<sub style="font-size:14px; font-weight:normal; font-family:arial;"><i> pm</i></sub>';
         } else if (parseInt(_Hours) == 0) {
             _Hours = "12";
+            clockk.innerHTML = ("0" + _Hours).slice(-2) + ":" + ("0" + date.getMinutes()).slice(-2) + ":" + ("0" + date.getSeconds()).slice(-2) + '<sub style="font-size:14px; font-weight:normal; font-family:arial;"><i> am</i></sub>';
         } else {
-
+            clockk.innerHTML = ("0" + _Hours).slice(-2) + ":" + ("0" + date.getMinutes()).slice(-2) + ":" + ("0" + date.getSeconds()).slice(-2) + '<sub style="font-size:14px; font-weight:normal; font-family:arial;"><i> am</i></sub>';
         }
 
     } else {
-
+        clockk.innerHTML = ("0" + _Hours).slice(-2) + ":" + ("0" + date.getMinutes()).slice(-2) + ":" + ("0" + date.getSeconds()).slice(-2);
     }
-    clockk.innerHTML = ("0" + _Hours).slice(-2) + ":" + ("0" + date.getMinutes()).slice(-2) + ":" + ("0" + date.getSeconds()).slice(-2);
-    dateId.innerHTML = date.getDate() + "-" + parseInt(date.getMonth() + 1) + "-" + date.getFullYear() + ' &nbsp <span style="color: orange; font-family:Arial;">' + week[parseInt(date.getDay())] + '</span>';
+
+    dateId.innerHTML = date.getDate() + "-" + parseInt(date.getMonth() + 1) + "-" + date.getFullYear() + ' &nbsp <span style="color: orange; font-family:cursive; font-weight:bold; font-variant-caps: unicase;">' + week[parseInt(date.getDay())] + '</span>';
     backcolorr.style.backgroundColor = localStorage.getItem("CLOCKBACK");
 }
 
