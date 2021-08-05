@@ -14,8 +14,8 @@ audio {
 }
 
 img {
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     margin: auto 20px;
 }
 
@@ -45,12 +45,29 @@ input[type=range] {
     margin: 0px;
 }
 
+input[type=range]:hover {
+    cursor: pointer;
+}
+
 input[type=range]::-webkit-slider-thumb {
     height: 20px;
     width: 20px;
     border-radius: 50%;
     background: rgb(48, 56, 51);
     -webkit-appearance: none;
+}
+
+.pointer {
+    width: 0px;
+    height: 0px;
+    border-bottom: 35px solid rgb(41, 41, 41);
+    border-right: 12px solid transparent;
+    border-left: 12px solid transparent;
+    display: inline-block;
+}
+
+.pointer:hover {
+    cursor: pointer;
 }
 
 #title {
