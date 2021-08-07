@@ -75,11 +75,42 @@ input[type=range]::-webkit-slider-thumb {
     text-shadow: 1px 1px 2px black;
 }
 
+#outerId {
+    /* box-sizing: border-box;*/
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: inline-block;
+    width: 85%;
+    height: 30%;
+    background-color: black;
+}
+
+#dateId {
+    display: inline;
+    color: snow;
+}
+
+#innerId {
+    /*display: inline-block;*/
+    margin-top: 0px;
+    margin-bottom: 5px;
+    height: 50%;
+    color: snow;
+    font-family: Amiri, serif;
+    width: 80%;
+    background-color: tomato;
+    line-height: 500%;
+}
+
+label {
+    color: white;
+}
+
 #footer {
     color: goldenrod;
     text-shadow: 2px 2px 4px black;
     font-family: cursive;
     font-size: 100%;
-    font-weight: bold;
+    font-weight: normal;
     font-style: italic;
 }
