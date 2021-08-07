@@ -23,9 +23,7 @@
 
                 <p id="title"></p>
 
-                <audio id="player"
-                    src="https://ice1.securenetsystems.net/DEMOSTN?playSessionID=13A185D6-B3D2-4D50-B83EDCD803195E40"
-                    controls>
+                <audio id="player" src="">
                 </audio>
 
                 <br>
@@ -38,8 +36,29 @@
                 <br>
                 <div class="pointer" id="pointer"></div>
                 <p style="color:whitesmoke; font-family:arial;">speed</p>
-            </section>
-            <br><br><br><br>
+            </section><br>
+
+
+            <center id="outerId">
+                <p id="dateId"></p>
+                <p>
+                    <center id="system">
+                        <label id="label24">24 Hours:</label>
+                        <input type="radio" name="system" id="system24" value="" required>
+                        &nbsp &nbsp
+                        <label id="label12">12 Hours:</label>
+                        <input type="radio" name="system" id="system12" value="" required checked>
+                    </center>
+                </p>
+                <center id="innerId">
+                    <h1 id="clockId">23:59:00</h1>
+                </center>
+                <p style="color:white;">Choose Color: <input type="color" name="color" id="colorId"
+                        onchange="backcolor()"></p>
+                <p class="sign"><i style="color:white;">Clock Designed by: Aladdin</i></p>
+            </center>
+
+            <br><br>
             <p id="footer">Designed & Developed by: Aladdin</p>
         </main>
 
@@ -48,6 +67,7 @@
     <script src="js/chanel.js"></script>
     <script src="js/spped.js"></script>
     <script src="js/play.js"></script>
+    <script src="js/app.js"></script>
 </body>
 
 </html>
