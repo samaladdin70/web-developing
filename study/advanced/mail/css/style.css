@@ -1,0 +1,15 @@
+h2 {
+    background-color: beige;
+    color: seagreen;
+    direction: rtl;
+}
+
+#contain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#formLogin {
+    border-radius: 14px;
+}
