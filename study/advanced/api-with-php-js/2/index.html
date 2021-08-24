@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="" rel="stylesheet">
+</head>
+
+<body>
+    <form id="loginForm">
+        <div>Username:</div>
+        <input type="text" name="uname" id="uname" required>
+        <div>Email-address:</div>
+        <input type="text" name="email" id="email" required>
+        <br>
+        <button type="submit" id="submit">ارسال بيانات</button>
+    </form>
+    <main id="main">
+
+
+    </main>
+    <script>
+        let loginForm = document.getElementById("loginForm");
+        let main = document.getElementById('main');
+        loginForm.onsubmit = (form) => {
+            form.preventDefault();
+            let formData = new FormData(loginForm);
+            fetch("app.php", {
+                method: "POST",
+                body: formData, // no need for json because data is a plain text.
+            }).then(response => response.text()).then(data => {
+                console.log(data);
+                main.innerHTML += "<h2>" + data + "</h2>";
+                // main.focus();
+            }).catch(error => {
+                console.log(error);
+            })
+        };
+    </script>
+</body>
+
+</html>
