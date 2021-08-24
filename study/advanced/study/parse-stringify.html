@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="" rel="stylesheet">
+</head>
+
+<body>
+
+
+
+    <script>
+        var jsObject = {
+            name: "Aladdin", age: 51, skilles: {
+                languages: ["Arabic", "English"],
+                educate: {
+                    since: "Engineering", socials: ["history", "Anther", "socials"], islamic: ["Quran", "Faith", "Hadith"],
+                    hopies: ["Reading", "Music", "Sports"]
+                }
+            }
+        };
+        console.log("jsObject: ", jsObject);
+        console.log("jsObject-type: ", typeof (jsObject));
+        console.log("jsObject-JSON.stringify: ", JSON.stringify(jsObject));
+        console.log("jsObject-JSON.stringify-type: ", typeof (JSON.stringify(jsObject)));
+
+        var jsonObject = {
+            "name": "Aladdin", "age": 51, "skilles": {
+                "languages": ["Arabic", "English"],
+                "educate": {
+                    "since": "Engineering", "socials": ["history", "Anther", "socials"], "islamic": ["Quran", "Faith", "Hadith"],
+                    "hopies": ["Reading", "Music", "Sports"]
+                }
+            }
+        };
+        console.log("jsonObject: ", jsonObject);
+        console.log("jsonObject-type: ", typeof (jsonObject));
+        console.log("jsonObject-JSON.stringify: ", JSON.stringify(jsonObject));
+        console.log("jsonObject-JSON.stringify-type: ", typeof (JSON.stringify(jsonObject)));
+
+        var jsonJson = '{"name":"Aladdin","age":51,"skilles":{"languages":["Arabic","English"],"educate":{"since":"Engineering","socials":["history","Anther","socials"],"islamic":["Quran","Faith","Hadith"],"hopies":["Reading","Music","Sports"]}}}';
+        console.log("jsonjson: ", jsonJson);
+        console.log("jsonjson-type: ", typeof (jsonJson));
+        console.log("jsonjson-JSON.parse: ", JSON.parse(jsonJson));
+        console.log("jsonjson-JSON.parse-type: ", typeof (JSON.parse(jsonJson)));
+    </script>
+</body>
+
+</html>

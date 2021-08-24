@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="" rel="stylesheet">
+</head>
+
+<body id="body">
+
+
+
+    <script>
+        const url = "http://localhost/myphp/study/advanced/study/search.json";
+        fetch(url).then(response => { return response.json() }).then(data => {
+            console.log(data);
+            console.log(typeof (data));
+            document.getElementById("body").innerHTML += data.organizations[0].city + "<br>";
+        }).catch(error => {
+            console.log(error);
+        })
+
+        fetch(url).then(response2 => { return response2.text() }).then(data2 => {
+            console.log(data2);
+            console.log(typeof (data2));
+            console.log("data2-JSON.parse() :", JSON.parse(data2));
+            document.getElementById("body").innerHTML += data2 + "<br>";
+            document.getElementById("body").innerHTML += JSON.parse(data2).organizations[0].city;
+        }).catch(error2 => {
+            console.log(error2);
+        })
+
+    </script>
+</body>
+
+</html>
