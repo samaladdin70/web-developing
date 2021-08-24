@@ -1,0 +1,1279 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "cFgGoZMWkqs9FDZ-cm7gjCmYZz8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xXagSynHo5RKRs5S12t7boLiZMo",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:44:45Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "كورس تعلم JavaScript - المستوى المتقدم || #01 : شرح ما هو JSON و ما هو API مع بعض أمثلة",
+        "description": "شرح ماهو JSON و شرح API بالعربي - JSON tutorial in Arabic  - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت\nشرح جافا سكريبت html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O2p7QQXIAG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O2p7QQXIAG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O2p7QQXIAG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O2p7QQXIAG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O2p7QQXIAG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O2p7QQXIAG0"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ik1HGCYIQ-kyiWhZTKpZnlmjYlE",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:44:59Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "كورس تعلم JavaScript - المستوى المتقدم || #02 : شرح JSON parse و JSON stringify",
+        "description": "شرح ماهو JSON parse و JSON stringify - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات + مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cc7Kw5Nawo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cc7Kw5Nawo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cc7Kw5Nawo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cc7Kw5Nawo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cc7Kw5Nawo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Cc7Kw5Nawo0"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zPWys0yoQhcbs0QVEHdNXAli6fs",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:45:13Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "كورس تعلم JavaScript - المستوى المتقدم || #03 : شرح ما هو API وما فائدته مع امثلة",
+        "description": "شرح ما هو API وما فائدته - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات + مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0sYfulgb2kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0sYfulgb2kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0sYfulgb2kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0sYfulgb2kk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0sYfulgb2kk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0sYfulgb2kk"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lyuXXbg_Ge195t8FnE_s13ZkWl8",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-11-07T11:04:06Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "كورس تعلم JavaScript - المستوى المتقدم || #04 : شرح fetch api من نوع GET",
+        "description": "شرح fetch API من نوعية GET في جافاسكريبت  - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nدورة javascript بالعربي\nدورة javascript\nكورس javascript كامل\nتعلم javascript\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hK3cjHAoTIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hK3cjHAoTIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hK3cjHAoTIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hK3cjHAoTIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hK3cjHAoTIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hK3cjHAoTIs"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zr-qJO2dBsirSRMB6zRSwy7P8a8",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:45:32Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "كورس تعلم JavaScript - المستوى المتقدم || #05 : امثلة عن fetch API + إنشاء تطبيق لقوائم يوتيوب ب API",
+        "description": "امثلة عن fetch API  - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nدورة javascript بالعربي\nدورة javascript\nكورس javascript كامل\nتعلم javascript\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v25XzD4nff8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v25XzD4nff8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v25XzD4nff8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v25XzD4nff8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v25XzD4nff8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v25XzD4nff8"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N1UuJpiWWdjp_jFUafbrXRnBhes",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:45:44Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API || حلقة #06 : إنشاء تطبيق ويب بواسطة YouTube API JSON",
+        "description": "شرح JSON + شرح API بالعربي - JSON and API tutorial in Arabic  - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ABtdtKaKGl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ABtdtKaKGl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ABtdtKaKGl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ABtdtKaKGl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ABtdtKaKGl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ABtdtKaKGl8"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QK3WnYyeu0DeIzub6TyUmVov7N0",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:45:54Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #07 : شرح fetch من نوع POST + كيفية أستخدامها مع API",
+        "description": "شرح JSON + شرح API بالعربي - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YikFRg7cIDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YikFRg7cIDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YikFRg7cIDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YikFRg7cIDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YikFRg7cIDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YikFRg7cIDk"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lNqM_0-S8MHRvP4o0QdFWV4r6UE",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:46:28Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #08 : شرح then catch error في جافا سكريبت",
+        "description": "شرح JSON + شرح API بالعربي - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UMV-ZRRiou4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UMV-ZRRiou4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UMV-ZRRiou4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UMV-ZRRiou4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UMV-ZRRiou4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UMV-ZRRiou4"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C8HlqmciL3eZSDgIykKk04oJsj8",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:46:15Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #09 : شرح FormData + طريقة إرسال بيانات عبر form + fetch",
+        "description": "شرح JSON + شرح API بالعربي -رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ydolpkNT-fE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ydolpkNT-fE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ydolpkNT-fE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ydolpkNT-fE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ydolpkNT-fE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ydolpkNT-fE"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m-bwNJszLpplPKbRd-Yar3reVzk",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:46:40Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #10 : شرح delete - set - append - has - key - get في FormData",
+        "description": "شرح FormData في JavaScript -  رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-XAomP6GKRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-XAomP6GKRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-XAomP6GKRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-XAomP6GKRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-XAomP6GKRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-XAomP6GKRY"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LAec1zON4WeBGE4Xz2LeFbWG8yg",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-11-07T11:10:34Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #11 : إرسال ملفات إلى server او API بواسطة Fetch و Form data",
+        "description": "شرح طريقة إرسال ملفات إلى server او API بواسطة Fetch و Form data  - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R0vuu8_UPFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R0vuu8_UPFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R0vuu8_UPFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R0vuu8_UPFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R0vuu8_UPFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R0vuu8_UPFs"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wukKsompuyz1URQULD0tOZwtBSA",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-11-07T11:20:52Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "كورس تعلم JavaScript - المستوى المتقدم || #12 : امثلة عن fetch api من نوع POST و GET",
+        "description": "امثلة عن fetch api من نوع POST و GET  - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cBpY1wv5vcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cBpY1wv5vcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cBpY1wv5vcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cBpY1wv5vcM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cBpY1wv5vcM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cBpY1wv5vcM"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aIetLc3fdcxCAoiRw69oVoml-Q4",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-11-05T10:47:07Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #13 : أمثلة عن كيفية استخدام fetch get مع REST API",
+        "description": "أمثلة عن كيفية استخدام fetch مع REST API  - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wMT9-bHcjyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wMT9-bHcjyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wMT9-bHcjyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wMT9-bHcjyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wMT9-bHcjyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wMT9-bHcjyI"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sELxI5c4d88Zo0hquyYkFOQzD1s",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-01-26T19:57:12Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #14 :كيفية تحديث المحتوى موقع تلقائي دون إعادة تحميل صفحة",
+        "description": "شرح JSON + شرح API بالعربي - JSON and API tutorial in Arabic  - رابط دورة JSON API JS كاملة : https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX\nرابط دعم Coder Shiyar او إشتراك بميزات مدفوعة في قناتنا : https://youtube.com/channel/UCBNZ0VoN2u_4NT8kbmGgUzQ/join\n\nرابط أفضل موقع لمشاهدة بث مباشر للمباريات و قنوات بالإضافة إستماع إلى المحطات راديو مجانا على هاتفك : http://shiyarjemo.com/app\n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/json-tutorial?files=1\n\nرابط افضل دورة html كاملة - html tutorial - full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط افضل دورة css كاملة - css tutorial - full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط افضل  دورة bootstrap كاملة - bootstrap tutorial full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة جافا سكربت كاملة JavaScript tutorial in Arabic\n :  https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D \n\nرابط افضل دورة PHP كاملة - PHP tutorial tutorial in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط افضل دورة PHP MySQL كاملة - PHP MySQL tutorial in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط افضل دورة SQL و إدارة قواعد البيانات MySQL كاملة - SQL tutorial in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\nرابط لأفضل دورة لتعلم جافا كاملة - Java tutorial - full course\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة اندرويد ستوديو - android studio tutorial \n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعنا أيضا على - Follow  us on \nFacebook Page:  https://www.facebook.com/codershiyar - صفحتنا في فيسبوك\nFacebook Group : https://www.facebook.com/groups/415336742421431 - مجموعة فيسبوك\n Instagram : https://instagram.com/codershiyar - انستقرام\n Academy Shiyar :  https://academy.codershiyar.com - اكاديمية شيار\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6-2Pbdgp5Bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6-2Pbdgp5Bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-2Pbdgp5Bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6-2Pbdgp5Bc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6-2Pbdgp5Bc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6-2Pbdgp5Bc"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gehr9fcVfdUqhYyPqDvZwxBSX5g",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-11-11T15:15:52Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #15 : شرح fetch api و كيفية تحديد ماترغب بعرضها",
+        "description": "شرح fetch api - رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OzCB9cYZWQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OzCB9cYZWQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OzCB9cYZWQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OzCB9cYZWQo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OzCB9cYZWQo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OzCB9cYZWQo"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wdF-AJvkQYUFC0es8v-vLpqcPAU",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-11-11T15:15:57Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم JSON و JavaScript API - حلقة #16 : طريقة عكس الترتيب البيانات القادمة من REST API",
+        "description": "دورة تعلم JavaScript - مستوى متقدم https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k93Imo-4Vxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k93Imo-4Vxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k93Imo-4Vxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k93Imo-4Vxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k93Imo-4Vxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k93Imo-4Vxk"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kdSE3Kl8kA3Yocw37Ly3_cYkDxM",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-11-24T19:42:49Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم php كاملة - حلقة #67 : شرح json decode في php",
+        "description": "رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط دورة تعلم PHP كاملة:  https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TOugi_-zqkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TOugi_-zqkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOugi_-zqkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TOugi_-zqkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TOugi_-zqkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TOugi_-zqkc"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8dtONQb6MZeu7Is1s7iylIDsaF8",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-11-24T19:43:04Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم php كاملة - حلقة #68 : شرح json encode ل تحويل بيانات بصيغة array أو object إلى json",
+        "description": "رابط المستوى المتقدم من دورة تعلم JavaScript:  https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط دورة تعلم PHP كاملة:  https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fm0jaL74dGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fm0jaL74dGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fm0jaL74dGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fm0jaL74dGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fm0jaL74dGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fm0jaL74dGY"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v6bsTx38g5iDLxcwyKZ3XWjMtwg",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-11-24T19:43:18Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم php كاملة - حلقة #69 : شرح json_last_error في php",
+        "description": "دورة تعلم JavaScript - مستوى المتقدم : https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط دورة تعلم PHP كاملة:  https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YYPg0Uc8npQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YYPg0Uc8npQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YYPg0Uc8npQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YYPg0Uc8npQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YYPg0Uc8npQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YYPg0Uc8npQ"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KEOPg1y_uGOmBBaPvlxDIHawdTE",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-11-22T20:20:03Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم php كاملة - حلقة #71 : شرح ماهو API و كيفية إنشاء API في PHP",
+        "description": "شرح ماهو API و كيفية إنشاء API في PHP  - دورة تعلم JavaScript - مستوى المتقدم : https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط دورة تعلم PHP كاملة:  https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JhBIbPoefn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JhBIbPoefn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JhBIbPoefn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JhBIbPoefn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JhBIbPoefn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JhBIbPoefn8"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M8u3gBkbGLyj2lA07PAq9VtpQtU",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-11-22T20:20:03Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم php كاملة - حلقة #72 : شرح كيفية إنشاء API من نوعية GET في PHP",
+        "description": "شرح كيفية إنشاء API من نوعية GET في PHP - دورة تعلم JavaScript - مستوى المتقدم : https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط دورة تعلم PHP كاملة:  https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uxjv9TkzVno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uxjv9TkzVno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxjv9TkzVno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uxjv9TkzVno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uxjv9TkzVno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uxjv9TkzVno"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WHhXN9xla18TWuDsH4rhsEw8KxE",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-11-22T20:20:03Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم php كاملة - حلقة #73 : شرح كيفية إنشاء API من نوعية GET في PHP - جزء الثاني",
+        "description": "شرح كيفية إنشاء API من نوعية GET في PHP - دورة تعلم JavaScript - مستوى المتقدم : https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط دورة تعلم PHP كاملة:  https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XfZTj1h0IDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XfZTj1h0IDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XfZTj1h0IDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XfZTj1h0IDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XfZTj1h0IDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XfZTj1h0IDk"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7WuUlzpPa4GCtGGpFLiPzGMqj1g",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-11-22T20:20:03Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم php كاملة - حلقة #74 : شرح كيفية إنشاء API من نوعية POST في PHP",
+        "description": "شرح كيفية إنشاء API من نوعية POST في PHP - دورة تعلم JavaScript - مستوى المتقدم : https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط دورة تعلم PHP كاملة:  https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة بالفيديو - و هذه الدورة : \nشرح JSON \nدورة JSON\nتعلم json\nتعلم json api\nشرح api\nشرح api js\nدورة تعلم api\nكورس json\nlearn json in arabic\njson tutroial arabic\njson tutorial in arabic\napi tutorial in arabic\nfetch get javascript\nfetch post javascript\njson tutorial for beginners\njson elzero\njson javascript\nماهو json \njson tutorial\nشرح javascript json \nشرح flutter json \nشرح api json \nشرح ال json\nشرح api بالعربي\nشرح rest api\nشرح api laravel\nشرح web api\nشرح ال api\nدورة php api\napi json tutorial\napi json javascript\ncreate json api in php\nmysql api php\nدورة javascript كاملة\njavascript شرح بالعربي\njavascript شرح كامل\njavascript شرح\nشرح javascript oop \nدورة javascript بالعربي\nدورة javascript\nكورس تعلم لغة javascript\nكورس javascript كامل\nتعلم javascript\nتعلم javascript بالعربية\nدورة تعلم جافا سكريبت",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JfcXH-tIAMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JfcXH-tIAMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JfcXH-tIAMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JfcXH-tIAMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JfcXH-tIAMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JfcXH-tIAMI"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XacGRQ2Bl2CKDsKRfVBZB4g_TKQ",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-03-20T21:41:18Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم PHP و MySQL | حلقة #41 : طريقة إنشاء REST API من نوعية GET Request",
+        "description": "شرح php mysql . دورة php mysql كامل : https://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg \nSource Codes - ملفات المستخدمة اثناء هذه الدورة : https://github.com/codershiyar/php-mysql?files=0 رابط موقع بث مباشر للمباريات وقنوات مجانا : http://shiyarjemo.com/app\n\nرابط دورة html كاملة - html tutorial - full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة css كاملة - css tutorial - full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة bootstrap كامل - bootstrap tutorial full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة JavaScript كاملة - JavaScript tutorial full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة php كاملة - php tutorial - full course :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة SQL - MySQL كاملة - mysql tutorial - full course :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\nرابط لأفضل دورة لتعلم جافا كاملة - Java tutorial - full course\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة اندرويد ستوديو - android studio tutorial \n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعنا أيضا على - Follow us on \nFacebook: https://m.facebook.com/codershiyar\nFB Group: https://www.facebook.com/groups/415336742421431\nInstagram: https://instagram.com/codershiyar\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة ب دورة - و فيديو :\nشرح php mysql \nشرح بالعربي mysql\nmysql tutorial Arabic\nlearn php mysql in Arabic\nlearn sql in Arabic\nsql tutorial in Arabic\nlearn php mysql full course\nlearn php mysql full course\nphp mysql course Arabic \noracle sql arabic course \nشرح sql\nتعلم mysql\nتعلم mysql من الصفر\nتعلم mysql بالعربي\nتعلم php و mysql \nتعلم قواعد البيانات mysql \nشرح mysql مع php\nشرح mysql بالعربي\nشرح قاعدة البيانات mysql\nmysql course arabic \nكورس php mysql\nكورس mysql\nدورة php mysql\nدورة mysql\nكورس تعلم لغة php\nكورس php 7\nكورس php & mysql كامل\nكورس لغة php\nكورس php\nشرح php oop \nشرح php 7 \nشرح php\nشرح php mysql\nشرح php كامل\nشرح php بالعربي\nشرح لغة php للمبتدئين\nتعلم php mysql",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Mz6j6pRe60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Mz6j6pRe60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Mz6j6pRe60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Mz6j6pRe60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9Mz6j6pRe60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9Mz6j6pRe60"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gM8W82AtkZW6oc2OUZu-H-Y_5rg",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-03-20T21:41:06Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "دورة تعلم PHP و MySQL | حلقة #42 : طريقة إنشاء REST API من نوعية POST Request",
+        "description": "شرح php mysql . دورة php mysql كامل : https://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg \nSource Codes - ملفات المستخدمة اثناء هذه الدورة : https://github.com/codershiyar/php-mysql?files=0 رابط موقع بث مباشر للمباريات وقنوات مجانا : http://shiyarjemo.com/app\n\nرابط دورة html كاملة - html tutorial - full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة css كاملة - css tutorial - full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة bootstrap كامل - bootstrap tutorial full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة JavaScript كاملة - JavaScript tutorial full course :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة php كاملة - php tutorial - full course :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة SQL - MySQL كاملة - mysql tutorial - full course :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\nرابط لأفضل دورة لتعلم جافا كاملة - Java tutorial - full course\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة اندرويد ستوديو - android studio tutorial \n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعنا أيضا على - Follow us on \nFacebook: https://m.facebook.com/codershiyar\nFB Group: https://www.facebook.com/groups/415336742421431\nInstagram: https://instagram.com/codershiyar\n\n#لاتنسى_إشترك_بالقناتنا_وتشغيل_الجرس\nكلمات المتعلقة ب دورة - و فيديو :\nشرح php mysql \nشرح بالعربي mysql\nmysql tutorial Arabic\nlearn php mysql in Arabic\nlearn sql in Arabic\nsql tutorial in Arabic\nlearn php mysql full course\nlearn php mysql full course\nphp mysql course Arabic \noracle sql arabic course \nشرح sql\nتعلم mysql\nتعلم mysql من الصفر\nتعلم mysql بالعربي\nتعلم php و mysql \nتعلم قواعد البيانات mysql \nشرح mysql مع php\nشرح mysql بالعربي\nشرح قاعدة البيانات mysql\nmysql course arabic \nكورس php mysql\nكورس mysql\nدورة php mysql\nدورة mysql\nكورس تعلم لغة php\nكورس php 7\nكورس php & mysql كامل\nكورس لغة php\nكورس php\nشرح php oop \nشرح php 7 \nشرح php\nشرح php mysql\nشرح php كامل\nشرح php بالعربي\nشرح لغة php للمبتدئين\nتعلم php mysql",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uTDyBZ2KWeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uTDyBZ2KWeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uTDyBZ2KWeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uTDyBZ2KWeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uTDyBZ2KWeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uTDyBZ2KWeg"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Nt-5qlG3ekbuOrw3IavG4HD-Fk",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-11-13T16:51:53Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "كورس تعلم JavaScript - المستوى المتقدم || #17 : إنشاء REST API للبحث عن بيانات وعرض نتائج مباشر",
+        "description": "دورة تعلم JavaScript - مستوى متقدم https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d__yQljFnls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d__yQljFnls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d__yQljFnls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d__yQljFnls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d__yQljFnls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d__yQljFnls"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mO130Fgz1fYWPinjNQPtQsEDRXQ",
+      "id": "UExNVGRaNjFlQm55cXpWaGVncmxLeTM4Wnd6a3ktZXVnWC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-11-13T16:52:41Z",
+        "channelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ",
+        "title": "كورس تعلم JavaScript - المستوى المتقدم || #18 : طريقة بحث عن بيانات بواسطة input في api عبر fetch",
+        "description": "دورة تعلم JavaScript - مستوى متقدم https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX رابط دورة تعلم JavaScript من الصفر: https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D رابط موقع مشاهدة قنوات و مباريات http://shiyarjemo.com/app \n\nرابط الملفات المستخدمة أثناء دروس هذه الدورة : https://github.com/codershiyar/advanced-javascript-course?files=1\n\nرابط أفضل كورسات كاملة في فيديو واحد لتعلم البرمجة وتصميم المواقع :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoElHxsyWjh7I_pcb1WonNZ\n \nرابط دورة تعلم html كاملة - Learn html in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz\n\nرابط دورة تعلم CSS كاملة - Learn CSS in Arabic :\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg\n\nرابط  دورة تعلم bootstrap كامل - Learn Bootstrap in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA\n\nرابط دورة تعلم JavaScript كاملة - Learn JavaScript in Arabic:\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D\n\nرابط دورة تعلم PHP كاملة - Learn php in Arabic :\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_\n\nرابط دورة تعلم SQL - MySQL كاملة - Learn SQL and MySQL in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju\n\n رابط دورة تعلم بي اتش بي و MySQL و learn php and MySQL in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyrUuvaVAsnGBQdLuNDGlxEg\n\nرابط دورة تعلم Java كاملة - Learn Java in Arabic\nhttps://www.youtube.com/playlist?list=PLMTdZ61eBnyol1gLHHgsiQbcOayNljG4_\n\nرابط دورة تعلم Android Studio و برمجة التطبيقات الهاتف - Android Studio Course in Arabic\n https://www.youtube.com/playlist?list=PLMTdZ61eBnypdGHUkZ3f52wTDRywLQo4l\n\nتابعني أيضا على - Follow me on :\nTwitter: https://twitter.com/codershiyar\nFacebook account: https://www.facebook.com/shiyarcoder \nFacebook group: https://www.facebook.com/groups/barmajaclub \nFacebook Page:  https://www.facebook.com/codershiyar \nInstagram: https://instagram.com/codershiyar\nGitHub : https://github.com/codershiyar\nLinkedIn: https://www.linkedin.com/in/codershiyar\nShiyar online Editor – محرر اكواد اونلاين : http://shiyarjemo.com/editor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t6U5lJ_Xab0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t6U5lJ_Xab0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t6U5lJ_Xab0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t6U5lJ_Xab0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t6U5lJ_Xab0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coder Shiyar (كودر شيار)",
+        "playlistId": "PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t6U5lJ_Xab0"
+        },
+        "videoOwnerChannelTitle": "Coder Shiyar (كودر شيار)",
+        "videoOwnerChannelId": "UCBNZ0VoN2u_4NT8kbmGgUzQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 27,
+    "resultsPerPage": 50
+  }
+}
