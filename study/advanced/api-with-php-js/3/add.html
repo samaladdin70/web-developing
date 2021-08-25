@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <center class="container" style="max-width: 720px;">
+        <nav style="box-sizing: border-box; height:75px; line-height:75px; padding: 5px;" class="container">
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link " aria-current="page"
+                        href="http://192.168.1.8/myphp/study/advanced/api-with-php-js/3/">الرئيسية</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="add.html">مشاركة منشور</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+
+            </ul>
+        </nav><br><br>
+        <form id="loginForm">
+            <div class="form-label" style="text-align: right; font-weight: bold;">العنــــوان</div>
+            <input style="text-align: right;" type="text" name="title" value="" class="form-control" required>
+            <br>
+            <div class="form-label" style="text-align: right; font-weight: bold;">المحتـــوى</div>
+            <textarea name="content" id="content" required hidden></textarea>
+            <div class="form-control" id='post' contenteditable="true"
+                style="width:100%; height:200px; text-align: right;"></div><br>
+            <button type="submit" class="btn btn-primary">ارسال بيانات</button>
+        </form>
+        <main id="main"></main>
+    </center>
+    <script>
+        let loginForm = document.getElementById("loginForm");
+        let content = document.getElementById("content");
+        let post = document.getElementById("post");
+        let main = document.getElementById("main");
+        post.addEventListener("input", () => {
+            content.value = post.innerHTML;
+        });
+        loginForm.onsubmit = (form) => {
+            form.preventDefault();
+            let formData = new FormData(loginForm);
+            fetch("add.php", {
+                method: "POST",
+                body: formData, // no need for json because data is a plain text.
+            }).then(response => response.text()).then(data => {
+                console.log(data);
+                // main.innerHTML += "<h2>" + data + "</h2>";
+                // main.focus();
+                location.replace("http://192.168.1.8/myphp/study/advanced/api-with-php-js/3/");
+            }).catch(error => {
+                console.log(error);
+            })
+        };
+    </script>
+</body>
+
+</html>

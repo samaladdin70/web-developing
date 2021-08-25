@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <center class="container sticky-top " style=" max-width: 720px;">
+        <nav style="background-color: white; box-sizing: border-box; height:75px; line-height:75px; padding: 5px;"
+            class="navbar">
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page"
+                        href="http://192.168.1.8/myphp/study/advanced/api-with-php-js/3/">الرئيسية</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="add.html">مشاركة منشور</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+
+            </ul>
+        </nav>
+        <div style="max-width: 720px; height: 30px; background-color: white;"></div>
+    </center>
+    <center class="container"
+        style=" font-family:Georgia, 'Times New Roman', Times, serif; max-width: 720px; box-sizing: border-box; padding: 10px;"
+        id='content'>
+
+    </center>
+
+
+    <script>
+        let content = document.getElementById('content');
+        fetch("read.php").then(response => response.text()).then(data => {
+            // let dataobj = json.parse(data);
+            content.innerHTML = data;
+            // content.innerText = data;
+        })
+    </script>
+
+</body>
+
+</html>
