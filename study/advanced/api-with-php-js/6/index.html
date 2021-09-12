@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html dir="rtl">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <center style="padding:20px;">
+        <div style="max-width: 720px; box-sizing: border-box; padding: 10px;" class=" input-group mb-3">
+            <input class="form-control" type="text" name="search" id="search" placeholder=" بحث    . . .">
+            <button style="margin-right: 5px;" class="btn btn-outline-secondary" type="button"
+                id="searchButton">بحث</button>
+        </div>
+    </center>
+    <main style="padding:10px; text-align:center;" id="main"></main>
+    <script>
+        let search = document.getElementById("search");
+        let searchButton = document.getElementById("searchButton");
+
+        searchButton.onclick = () => {
+            main.innerHTML = "";
+            let url = "http://localhost/myphp/study/advanced/api-with-php-js/6/read.php";
+            fetch(url).then(response => response.json()).then(data => {
+                // console.log(data);
+                let searchValue = document.getElementById("search").value;
+                let main = document.getElementById("main");
+                data.forEach(element => {
+                    if (searchValue.length >= 3) {
+                        if (element.RadioName.search(searchValue) != -1 || element.RadioType.search(searchValue) != -1) {
+                            main.innerHTML += "<br><article>" + element.RadioName + "</article>";
+                            main.innerHTML += "<article>" + element.RadioUrl + "</article><br>";
+                        }
+                    }
+
+                });
+
+            }).catch(error => {
+                console.log(error);
+            })
+        }
+
+    </script>
+</body>
+
+</html>

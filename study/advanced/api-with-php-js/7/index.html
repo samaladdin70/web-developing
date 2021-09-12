@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html dir="rtl">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <div class="container" style="max-width: 850px;">
+        <div class="navbar navbar-light bg-light" style="width:100%;">
+            <div class="navbar-brand mb-0 h1 row" style="width:100%;">
+                <div class="col" style="margin:auto 10px; width:33%;">
+                    <label>البحث عن كتاب: </label>
+                    <input type="radio" name="selectMood" required checked onchange="disable2()" id="oldR">
+                </div>
+                <div class="col" style="margin:auto 10px; width: 33%;">
+                    <label>إدراج كتاب : </label>
+                    <input type="radio" name="selectMood" required onchange="disable2()" id="newB">
+                </div>
+                <div class="col" style="margin:auto 10px; width: 33%;">
+                    <label>إنشاء مكتبة جديدة: </label>
+                    <input type="radio" name="selectMood" required onchange="disable2()" id="newR">
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    <div class="container" style="max-width: 850px; margin-top: 10px;">
+        <div class="row">
+            <div class="col">
+                <form id="searchLibForm" class="form">
+                    <div>
+                        <select class="form-select" id="select" name="select" style="border: none; box-shadow: none;">
+                            <option value="choose">اختر مكتبتك</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <input class="form-control" type="text" name="searchInput" id="searchInput"
+                            placeholder="بحث  . . . " required>
+                        <button class="btn btn-primary" type="submit" id="searchButton"
+                            style="margin-top: 5px; width: 100%; box-shadow: none;">بحث</button>
+                    </div>
+                </form>
+            </div>
+            <div class="col">
+                <form id="insertLibForm" class="form">
+                    <div class="form-control" style="border: none;">ادخل اسم المكتبة :</div>
+                    <input class="form-control" type="text" name="insertLib" id="insertLib" required disabled>
+                    <button class="btn btn-primary" type="submit" id="insertLibButton" disabled
+                        style="margin-top: 5px; width: 100%; box-shadow: none;">إدخال</button>
+                </form>
+
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <form id="insertBook" class="form">
+                    <div>ادراج عنصر جديد :
+                        <select disabled class="form-select" id="selectI" name="selectI"
+                            style="border: none; box-shadow: none;">
+                            <option>اختر مكتبتك</option>
+                        </select>
+                    </div>
+
+                    <div>اسم الكتاب:</div>
+                    <input disabled class="form-control" type="text" name="bookName" id="bookName" required>
+                    <div>مؤلف الكتاب:</div>
+                    <input disabled class="form-control" type="text" name="auterName" id="auterName"
+                        placeholder="اختياري . . . - Optional">
+                    <div>تصنيف الكتاب أو نبذة عنه:</div>
+                    <input disabled class="form-control" type="text" name="bookClass" id="bookClass" required>
+                    <div>في صف رقم:</div>
+                    <input disabled class="form-control" type="number" name="rowNumber" id="rowNumber" required>
+                    <div>في قسم:</div>
+                    <input disabled class="form-control" type="text" name="bookSection" id="bookSection" required>
+                    <button disabled type="submit" class="btn btn-primary" name="submitAddBook" id="submitAddBook"
+                        style="margin-top: 5px; width: 100%; box-shadow: none;">ادراج</button>
+                </form>
+
+            </div>
+
+            <div class="col">
+                <br>
+                <div class="container"> اخراج نتائج البحث والإدراج</div>
+                <br>
+                <div class="container card-header shadow p-3 mb-5 bg-white rounded" id="searchResult" style="width: 100%; height: 420px; overflow: auto;
+                         border-radius:10px; margin-top: 5px;">
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+    <script src="post.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        #dropdownMenuButton2:focus {
+            box-shadow: none;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <center class="container sticky-top" style="max-width: 720px; box-sizing: border-box; padding:0 5px;">
+        <div class="dropdown" style="width: 100%;">
+            <button style="width: 100%; text-align: right;" class="btn btn-secondary dropdown-toggle" type="button"
+                id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+                الأخبار العامة
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
+                <li><a class="dropdown-item active" href="#">الحوادث والقضايا</a></li>
+                <li><a class="dropdown-item" href="#">أخبار الرياضة</a></li>
+                <li><a class="dropdown-item" href="#">العلوم والتكنولوجيا</a></li>
+                <li>
+                    <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item" href="http://localhost/myphp/study/advanced/api-with-php-js/4/">العودة
+                        للصفحة الرئيسية</a></li>
+            </ul>
+        </div>
+    </center><br>
+
+    <center class="container">
+        <center class="container" style="max-width: 720px; box-sizing: border-box;" id="main">
+
+        </center>
+
+    </center>
+    <script>
+        let main = document.getElementById("main");
+        let url = "https://newsapi.org/v2/top-headlines?country=eg&apiKey=f8382008d9ab4e1bb73c1ba3b98cead7";
+        fetch(url).then(response => { return response.json() }).then(data => {
+            console.log(data.articles);
+            data.articles.forEach(element => {
+                if (element.urlToImage != null) {
+                    main.innerHTML += '<div class="container card-header shadow-sm p-3 mb-5 bg-white rounded" style="width:100%"><h2>' + element.title + '</h2><p><br><a href="' +
+                        element.url + '" >' + element.description + '<img class="img-fluid" src="' + element.urlToImage + '"></a><br>' + element.publishedAt +
+                        '</p></div>';
+                }
+
+            });
+        }).catch(error => {
+            console.log(error);
+        })
+    </script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

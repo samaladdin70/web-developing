@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html dir="rtl">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <center class="container sticky-top " style=" max-width: 720px;">
+        <nav style="background-color: white; box-sizing: border-box; height:75px; line-height:75px; padding: 5px;"
+            class="navbar">
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page"
+                        href="http://localhost/myphp/study/advanced/api-with-php-js/4/">الرئيسية</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="add.html">مشاركة منشور</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="news/egy-live-news.html">الأخبار </a>
+                </li>
+
+            </ul>
+        </nav>
+        <div style="max-width: 720px; height: 30px; background-color: white;"></div>
+    </center>
+    <center class="container"
+        style=" font-family:Georgia, 'Times New Roman', Times, serif; max-width: 720px; box-sizing: border-box; padding: 10px;"
+        id='content'>
+
+    </center>
+
+
+    <script>
+        let content = document.getElementById('content');
+        fetch("http://localhost/myphp/study/advanced/api-with-php-js/4/read.php").then(response => response.json()).then(data => {
+            // let dataobj = json.parse(data);
+            //content.innerHTML = JSON.stringify(data);
+            console.log(data);
+            data.reverse().forEach(element => {
+                content.innerHTML += '<div class="card text-white bg-dark mb-3 shadow p-3  round" style="width:95%; height:350px; overflow:auto;"><div class="card-header" style="width:95%;"><h4 class="card-title">' + element.title + '</h4></div><div style="width: 95%; overflow: auto; text-align: right; " class="card-body card-header card-body text-white card  bg-dark mb-3 card-header shadow p-3 mb-5  rounde" ><p class="card-text">' + element.content + '</p></div></div>';
+
+            });
+            // content.innerHTML = data;
+            // content.innerText = data;
+        })
+    </script>
+
+</body>
+
+</html>

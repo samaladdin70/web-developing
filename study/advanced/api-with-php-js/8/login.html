@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <center style="padding:50px;">
+        <div id="err"></div>
+        <form style="max-width:720px; padding: 30px; border-radius: 14px; " id="formLogin"
+            class="form card shadow round">
+            <div class="label" style="padding-left: 10px; text-align: left;">email:</div>
+            <input class="form-control" type="text" name="email" id="email" required placeholder="example@email.org"
+                style="border-radius: 20px; border-width: 2px; text-align: left;"><br>
+            <div style="padding-left: 10px; text-align: left;">password:</div>
+            <input style="border-radius: 20px; border-width: 2px; text-align: left;" class="form-control"
+                type="password" name="password" id="password" required>
+            <br>
+            <button class="btn btn-primary" type="submit" name="submit" id="submit"
+                style="margin-bottom: 20px; border-radius: 20px;">login</button>
+            <a href="register.php" style="text-decoration: none;">تسجيل بياناتك الآن</a>
+        </form>
+    </center>
+    <script>
+        let formLogin = document.getElementById("formLogin");
+        formLogin.onsubmit = (form) => {
+            form.preventDefault();
+            let formLoginDatat = new FormData(formLogin);
+            fetch("login2.php", {
+                method: "POST",
+                body: formLoginDatat,
+
+            }).then(response => response.json()).then(data => {
+                if (data == true) {
+                    location.replace("index.php");
+                } else {
+                    document.getElementById("err").innerHTML = '<h3 style="color:red;">' + data + '</h3>';
+                }
+            })
+            // location.replace("index.php");
+        }
+    </script>
+
+
+
+
+
+
+
+
+</body>
+
+</html>

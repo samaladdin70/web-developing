@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Radio Stations</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="راديو محطات اذاعية انترنت راديو radio stations">
+    <meta name="keywords" content="راديو انترنت منوعات محطات اذاعية اذاعة ترفيه">
+    <meta name="autor" content="Aladdin programmer and developer علاء الدين مبرمج ومطور">
+    <meta property="og:title" content="Radio Stations" />
+    <meta property="og:description"
+        content=" راديو انترنت منوعات محطات اذاعية اذاعة ترفيه راديو محطات اذاعية انترنت راديو radio station " />
+    <meta property="og:image" content="img/logo.jpg" />
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="315" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary-large-image" />
+    <meta name="twitter:title" content="Radio Stations" />
+    <meta name="twitter:description"
+        content="راديو انترنت منوعات محطات اذاعية اذاعة ترفيه راديو محطات اذاعية انترنت راديو radio station" />
+    <meta name="twitter:image" content="img/logo.jpg" />
+    <link rel="icon" href="img/logo.jpg" />
+    <link rel="shortcut" href="img/logo.jpg" />
+    <link rel="apple-touch-icon" href="img/logo.jpg" />
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <center>
+        <main id="main">
+            <section>
+                <h2>Radio Stations</h2>
+
+                <img src="img/logo.jpg" alt="" class="logo">
+
+                <br>
+
+                <p id="title"></p>
+
+                <audio preload="none" id="player" src="">
+                </audio>
+                <br>
+                <center>
+                    <center
+                        style=" width:80%; height: 50px; box-sizing: border-box; border:none; border-radius: 14px; line-height: 68px; box-shadow: 4px 4px 8px darkred inset,4px 2px 6px darkred;">
+                        <img src="img/back.png" id="back">
+                        <img src="img/play.png" id="play">
+                        <img src="img/next.png" id="next">
+                    </center>
+                </center><br>
+                <input type="range" id="speed" name="range" class="range" min="0" max="200" value="">
+                <br>
+                <div class="pointer" id="pointer"></div>
+                <p style="color:whitesmoke; font-family:arial;">speed</p>
+            </section><br>
+
+
+            <center id="outerId">
+                <p id="dateId"></p>
+                <p>
+                    <center id="system">
+                        <label id="label24">24 Hours:</label>
+                        <input type="radio" name="system" id="system24" value="" required>
+                        &nbsp &nbsp
+                        <label id="label12">12 Hours:</label>
+                        <input type="radio" name="system" id="system12" value="" required checked>
+                    </center>
+                </p>
+                <center id="innerId">
+                    <h1 id="clockId">23:59:00</h1>
+                </center>
+                <p style="color:white;">Choose Color: <input type="color" name="color" id="colorId"
+                        onchange="backcolor()"></p>
+                <p class="sign">Clock Designed by: <i>Aladdin</i></p>
+            </center>
+
+            <br><br>
+            <p id="footer">Designed & Developed by: Aladdin</p>
+        </main>
+
+
+    </center>
+    <script src="js/channel.js"></script>
+    <script src="js/speed.js"></script>
+    <script src="js/clock.js"></script>
+</body>
+
+</html>

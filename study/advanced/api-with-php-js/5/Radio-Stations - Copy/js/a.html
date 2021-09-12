@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="" rel="stylesheet">
+</head>
+
+<body>
+    <script>
+        let label = [];
+        let channel = [];
+        let url = "http://localhost/myphp/study/advanced/api-with-php-js/5/add-read.php";
+        fetch(url).then(response => response.json()).then(data => {
+            console.log(data);
+            data.forEach(element => {
+                label.push(element.RadioName);
+                channel.push(element.RadioUrl);
+
+            });
+        }).catch(error => {
+            console.log(error);
+        })
+        console.log(label);
+        console.log(channel);
+    </script>
+</body>
+
+</html>
